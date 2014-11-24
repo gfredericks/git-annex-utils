@@ -1,4 +1,4 @@
-(defproject com.gfredericks/git-annex-utils "0.1.0"
+(defproject com.gfredericks/git-annex-utils "0.1.1-SNAPSHOT"
   :description "Some things I keep doing with git-annex."
   :url "https://github.com/gfredericks/git-annex-utils"
   :license {:name "Eclipse Public License"
